@@ -1,2 +1,3 @@
 # ifrit-distribution
-Java packages to help render and animate stuffs on consoles. This repository only contains distributed JAR files.
+Java packages to help render and animate stuffs on consoles. This repository only contains distributed JAR files.<br/>
+<s>Deals AOE Arts Damage in a long line</s>
