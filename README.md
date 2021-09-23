@@ -51,7 +51,7 @@ sprite.addPrimitive(shapeFactory.getFinalShape(),0);
 <b>Set Active Scene</b>
 
 ```java
-app.getMediator().addCommand(new IfritCPSwitchRenderScene(scene));
+app.setRenderScene(scene);
 ```
 
 
